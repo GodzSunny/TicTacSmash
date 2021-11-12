@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">TicTacSmash</string>
+    <string name="top_left">Top Left</string>
+    <string name="top_middle">Top Middle</string>
+    <string name="top_right">Top Right</string>
+    <string name="middle_left">Middle Left</string>
+    <string name="middle_middle" translatable="false">Middle Middle</string>
+    <string name="middle_right">Middle Right</string>
+    <string name="bottom_left">Bottom Left</string>
+    <string name="bottom_middle">Bottom Middle</string>
+    <string name="bottom_right">Bottom Right</string>
+    <string name="vs">Vs</string>
+    <string name="start">Start</string>
+    <string name="select_team">Select Team</string>
+    <string name="_1_player">1 Player</string>
+    <string name="_2_players">2 Players</string>
+    <string name="rock_0">Rock: 0</string>
+    <string name="scissor_0">Scissor: 0</string>
+</resources>
